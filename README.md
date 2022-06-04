@@ -1,1 +1,14 @@
-# computerNetworkStudy
+#### 计算机网络
+
+1. 参考书籍：《计算机网络-自顶向下》
+2. 参考视频：[中科大郑烇、杨坚全套《计算机网络》](https://www.bilibili.com/video/BV1JV411t7ow)
+3. 时间：2022.5.13-2022.6.4
+4. 章节：
+   1. 计算机网络和因特网
+   2. 应用层
+   3. 运输层
+   4. 网络层：数据平面
+   5. 网络层：控制平面
+   6. 链路层和局域网
+   7. 计算机网络中的安全
+5. 笔记地址：https://github.com/Prvyx/computerNetworkStudy

@@ -1,0 +1,20 @@
+##### P50.认证（https://www.bilibili.com/video/BV1JV411t7ow?p=50）
+
+###### 认证使用对称密钥：
+
+- ![image-20220604153028320](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220604153028320.png)（关键问题：对称密钥不能被攻击者知道)（遗留问题1：如何只有Alice、Bob两人共享一个key)
+
+###### 认证使用非对称密钥
+
+- ![image-20220604153738281](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220604153738281.png)（R每次不同的原因：防止重放攻击)
+
+  ap5.0的安全漏洞：中间人攻击（10:30-14:24）
+
+  ![image-20220604154259560](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220604154259560.png)（关键问题：Bob想获得Alice的公钥，但Trudy将自己的公钥给Bob）（遗留问题2：如何可靠地获得一个实体的公钥而不是其他实体的公钥)
+
+  ![image-20220604154559088](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220604154559088.png)
+
+###### 2个遗留问题：
+
+1. 在对称密钥加密体系中，如何使通信的双方共享一个key（这个key不能被旁人知道）
+2. 在公开密钥加密体系中，如何可靠地获得一个实体的公钥，而不是其它实体的公钥
