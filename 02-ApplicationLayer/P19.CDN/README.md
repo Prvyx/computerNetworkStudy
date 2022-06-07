@@ -4,22 +4,25 @@
 
 1. 视频业务：视频流量占据着互联网大部分的带宽
 
-2. 异构性：![image-20220518201548147](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220518201548147.png)
+2. 异构性：![image-20220518201548147](http://1.15.139.112:5000/static/typoraFigureBed/image-20220518201548147.png)
 
 3. 普通播放：下载完再播放、流化播放：边下载边播放
 
 4. 多媒体流化服务：DASH（Dynamic,Adaptive Streaming over HTTP）
 
-   - ![image-20220518202320367](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220518202320367.png)
+   - ![image-20220518202320367](http://1.15.139.112:5000/static/typoraFigureBed/image-20220518202320367.png)
 
-     ![image-20220518203144966](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220518203144966.png)
+     ![image-20220518203144966](http://1.15.139.112:5000/static/typoraFigureBed/image-20220518203144966.png)
 
 5. 流化播放取决于服务器、客户端以及链路带宽，而且可能客户端请求服务器的视频资源符合28分布，若不采取措施，会造成发送资源的重复。So，可以采用CDN的方法
 
 6. 在ISP（Internet Service Provider）、ICP（Internet Content Provider）的基础上，这里又多出了CDN运营商。ICP要买CDN的服务，来加快自己的服务
 
-   - ![image-20220518204140203](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220518204140203.png)（CDN的口号：让内容靠近用户)
-   - ![image-20220518204651707](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220518204651707.png)（CDN运营商的部署策略)
+   - ![image-20220518204140203](http://1.15.139.112:5000/static/typoraFigureBed/image-20220518204140203.png)
+
+     （CDN的口号：让内容靠近用户)
+
+   - ![image-20220518204651707](http://1.15.139.112:5000/static/typoraFigureBed/image-20220518204651707.png)（CDN运营商的部署策略)
 
 7. CDN使用manifest file（告示文件）的工作流程（28：45-31：34）
 
@@ -34,7 +37,7 @@
 
 11. CDN需要解决的问题：
 
-    ![image-20220518210422451](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220518210422451.png)
+    ![image-20220518210422451](http://1.15.139.112:5000/static/typoraFigureBed/image-20220518210422451.png)
     
 12. “内容访问场景”的简单示例（38：00-43：35）
 

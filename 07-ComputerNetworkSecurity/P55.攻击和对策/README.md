@@ -4,9 +4,11 @@
 
 ###### IDS：入侵检测系统	面向网段进行检测
 
-![image-20220604224211992](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220604224211992.png)
+![image-20220604224211992](http://1.15.139.112:5000/static/typoraFigureBed/image-20220604224211992.png)
 
-![image-20220604224325281](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220604224325281.png)（IDS的探针会检测某个网段的流量)
+![image-20220604224325281](http://1.15.139.112:5000/static/typoraFigureBed/image-20220604224325281.png)
+
+（IDS的探针会检测某个网段的流量)
 
 ----
 

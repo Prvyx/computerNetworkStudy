@@ -4,26 +4,30 @@
 
 ###### 引论：
 
-- ![image-20220603101713406](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220603101713406.png)
+- ![image-20220603101713406](http://1.15.139.112:5000/static/typoraFigureBed/image-20220603101713406.png)
 
 ###### 点到点的链路一般用于广域网（不存在多点接入问题），多点连接的网络一般用于局域网（多点连接可能存在冲突，即多点接入问题）
 
 - 多点连接网络：
 
-  ![image-20220603104639683](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220603104639683.png)（局域网的多点连接链路比广域网的点到点链路复杂，需要解决多点接入问题)
+  ![image-20220603104639683](http://1.15.139.112:5000/static/typoraFigureBed/image-20220603104639683.png)（局域网的多点连接链路比广域网的点到点链路复杂，需要解决多点接入问题)
 
 ###### 链路层
 
-- ![image-20220603104914125](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220603104914125.png)
+- ![image-20220603104914125](http://1.15.139.112:5000/static/typoraFigureBed/image-20220603104914125.png)
 
 - 链路层服务：
 
-  ![image-20220603105115671](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220603105115671.png)
+  ![image-20220603105115671](http://1.15.139.112:5000/static/typoraFigureBed/image-20220603105115671.png)
 
-  ![image-20220603105155000](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220603105155000.png)（物理层比较可靠(eg:以太网)，链路层就不用那么可靠；物理层不太可靠(WLAN)，链路层需要可靠（无线路由器->目标主机 的帧出错，不需要让源主机重传，而是让该无线路由器重传）)
+  ![image-20220603105155000](http://1.15.139.112:5000/static/typoraFigureBed/image-20220603105155000.png)
 
-  ![image-20220603111026362](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220603111026362.png)（警察的通话机是半双工的)
+  （物理层比较可靠(eg:以太网)，链路层就不用那么可靠；物理层不太可靠(WLAN)，链路层需要可靠（无线路由器->目标主机 的帧出错，不需要让源主机重传，而是让该无线路由器重传）)
+
+  ![image-20220603111026362](http://1.15.139.112:5000/static/typoraFigureBed/image-20220603111026362.png)（警察的通话机是半双工的)
 
 - 网卡通信：
 
-  ![image-20220603111447379](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220603111447379.png)（数据报通过总线发给网卡，网卡将其封装为帧，然后将帧作为物理bit打出去)
+  ![image-20220603111447379](http://1.15.139.112:5000/static/typoraFigureBed/image-20220603111447379.png)
+  
+  （数据报通过总线发给网卡，网卡将其封装为帧，然后将帧作为物理bit打出去)

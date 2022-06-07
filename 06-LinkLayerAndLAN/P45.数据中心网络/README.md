@@ -2,7 +2,7 @@
 
 ###### 数据中心网络：DC（Data Center）：
 
-- ![image-20220604060756847](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220604060756847.png)
+- ![image-20220604060756847](http://1.15.139.112:5000/static/typoraFigureBed/image-20220604060756847.png)
 
 
 

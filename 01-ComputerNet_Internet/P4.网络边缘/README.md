@@ -2,19 +2,21 @@
 
 1. 从类型的角度看，互联网包括三个子系统：网络的边缘、网络的核心、网络的接入（网）
 
-   ![image-20220513141724057](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220513141724057.png)(core：核心，作用：数据交互、edge：边缘、access：接入)
+   ![image-20220513141724057](http://1.15.139.112:5000/static/typoraFigureBed/image-20220513141724057.png)
+
+   (core：核心，作用：数据交互、edge：边缘、access：接入)
 
 2. CS模式、P2P模式（Peer to Peer）
 
-   - P2P模式：![image-20220513144022108](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220513144022108.png)
+   - P2P模式：![image-20220513144022108](http://1.15.139.112:5000/static/typoraFigureBed/image-20220513144022108.png)
 
 3. 网络边缘：采用网络设施的面向连接服务
 
-   1. ![image-20220513144332610](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220513144332610.png)
+   1. ![image-20220513144332610](http://1.15.139.112:5000/static/typoraFigureBed/image-20220513144332610.png)
    2. “面向连接”与“有连接”的区别：（27:00-27:30）
    3. 流量控制（发送方与接收方之间的一些控制，考虑接受方的接受能力）：协调发送方的发送速度与接收方的接受速度，不让发送方发送的太快从而超过接受方的处理能力，让两者有序通信（eg：服务器性能至强，客户端性能小弱，服务器发送太快，导致客户端来不及处理）
    4. 拥塞控制（发送方与网络核心的交换节点的一些控制，考虑网络路径的通行能力）
 
 4. 网络边缘：采用基础设施的无连接服务
 
-   - ![image-20220513150046058](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220513150046058.png)
+   - ![image-20220513150046058](http://1.15.139.112:5000/static/typoraFigureBed/image-20220513150046058.png)

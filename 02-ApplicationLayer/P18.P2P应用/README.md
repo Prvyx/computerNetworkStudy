@@ -2,11 +2,13 @@
 
 1. 纯P2P架构
 
-   ![image-20220516220614223](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220516220614223.png)
+   ![image-20220516220614223](http://1.15.139.112:5000/static/typoraFigureBed/image-20220516220614223.png)
 
 2. CS模式vsP2P模式
 
-   ![image-20220516221145215](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220516221145215.png)（P2P模式：“人人为我，我为人人”的思想。P2P模式的缺点：节点的可管理性比较差，peer有上线、下线的动作)
+   ![image-20220516221145215](http://1.15.139.112:5000/static/typoraFigureBed/image-20220516221145215.png)
+
+   （P2P模式：“人人为我，我为人人”的思想。P2P模式的缺点：节点的可管理性比较差，peer有上线、下线的动作)
 
 3. P2P原理
 

@@ -4,7 +4,7 @@
 
 - 原理：
 
-  ![image-20220603112621715](C:\Users\呵\AppData\Roaming\Typora\typora-user-images\image-20220603112621715.png)
+  ![image-20220603112621715](http://1.15.139.112:5000/static/typoraFigureBed/image-20220603112621715.png)
 
 - 实现：
 
